@@ -68,7 +68,10 @@ Takım 185
 Alınan kararlar: Kolay anlaşılır bir arayüze sahip olunmalıdır. Bu yüzden renkler ve metinler sadeleştirilmiştir. Sprint Review katılımcıları: Furkan Selçuk
 
 - **Sprint Retrospective:**
-  - Takımda tek olduğum için takım herhangi bir değerlendirme olmadı
+  - Projedeki arayüz ve tema daha anlaşılır olunmalı.
+  - Sayfa düzeni ve home page düzenlenmeli.
+  - Tasklara verilen puanlar gözden geçirilmeli.
+  - Proje son olarak test edilmeli.
  
 -**Diğer Notlar**:
 - N/A
