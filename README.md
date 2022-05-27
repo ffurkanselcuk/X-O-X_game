@@ -10,7 +10,7 @@ Takım 185
 
 
 
-## Ürün İsmi![img1]
+## Ürün İsmi
 
 
 --X-O-X Game--
