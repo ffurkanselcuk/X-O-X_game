@@ -48,7 +48,7 @@ Takım 185
 
 - **Daily Scrum**: 
 - ![Ekran Alıntısı6](https://user-images.githubusercontent.com/99053020/170709013-d4bc2189-80b5-449c-822e-d4fd4ee5f89f.PNG)
- -![Ekran Alıntısı7](https://user-images.githubusercontent.com/99053020/170709032-ecbab88d-6a60-48d8-ba4e-cf00bb7514e6.PNG)
+- ![Ekran Alıntısı7](https://user-images.githubusercontent.com/99053020/170709032-ecbab88d-6a60-48d8-ba4e-cf00bb7514e6.PNG)
 
 
 - **Sprint board update**: Sprint board screenshotları:
