@@ -6,7 +6,7 @@ Takım 185
 
 ## Takım Elemanları
 
-- Furkan Selçuk: Product Owner
+- Furkan Selçuk: Product Owner,Scrum muster and Team Member/Developer
 
 
 
@@ -46,7 +46,10 @@ Takım 185
 
 - **Backlog düzeni ve Story seçimleri**:  ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
-- **Daily Scrum**: Takımda tek kaldığım için bugün uygulamanın arayüzünü bitirdim ve çok az işler kaldı.
+- **Daily Scrum**: 
+- ![Ekran Alıntısı6](https://user-images.githubusercontent.com/99053020/170709013-d4bc2189-80b5-449c-822e-d4fd4ee5f89f.PNG)
+ -![Ekran Alıntısı7](https://user-images.githubusercontent.com/99053020/170709032-ecbab88d-6a60-48d8-ba4e-cf00bb7514e6.PNG)
+
 
 - **Sprint board update**: Sprint board screenshotları:
 
