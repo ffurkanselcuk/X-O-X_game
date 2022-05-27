@@ -40,11 +40,11 @@ Takım 185
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 300 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 380 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İlk Sprintler takım nedeniyle yapılamadığı için tüm puanlamaları bu sprinte bırakıldı.
 
-- **Backlog düzeni ve Story seçimleri**:  ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+- **Backlog düzeni ve Story seçimleri**:  ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmıştır. Story başına çıkan tahmin puanı, toplam puan kadar tutulmuştur.
 
 - **Daily Scrum**: 
 - ![Ekran Alıntısı6](https://user-images.githubusercontent.com/99053020/170709013-d4bc2189-80b5-449c-822e-d4fd4ee5f89f.PNG)
