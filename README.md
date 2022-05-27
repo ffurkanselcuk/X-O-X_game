@@ -48,9 +48,14 @@ Takım 185
 
 - **Daily Scrum**: Takımda tek kaldığım için bugün uygulamanın arayüzünü bitirdim ve çok az işler kaldı.
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+
+![Ekran Alıntısı4](https://user-images.githubusercontent.com/99053020/170705887-5ad2e4f6-6e8f-4b66-9717-773f6dc1c587.PNG)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/99053020/170700028-9d706fe9-63ef-4586-ab20-2abe98146d7e.PNG)
 ![Ekran Alıntısı1](https://user-images.githubusercontent.com/99053020/170700038-4f16e3c2-f65b-4a71-a0c9-bf84b8130269.PNG)
 ![Ekran Alıntısı2](https://user-images.githubusercontent.com/99053020/170700040-f527f18d-bd6c-4a9a-8eb8-8d6289f75c06.PNG)
